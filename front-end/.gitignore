@@ -5,3 +5,4 @@ node_modules/
 .DS_Store
 
 # 其他你不想上传的文件或目录...
+.env
